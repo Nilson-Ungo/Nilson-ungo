@@ -1,18 +1,19 @@
 <table>
   <tr>
-    <td>
-      <h1 align="left">👋 Olá, sou o Nilson Ungó</h1>
+    <td valign="top">
+      <h1 align="left">👋 Olá, sou o <span style="color:#4FC3F7;">Nilson Ungó</span></h1>
       <p align="left">
-        Desenvolvedor Backend apaixonado por Python e pela criação de soluções web funcionais.<br>
-        Transformo ideias em aplicações com propósito.
+        <strong style="color:#81C784;">Desenvolvedor Backend</strong> apaixonado por <strong>Python</strong> e pela criação de soluções web funcionais.<br><br>
+        Transformo ideias em <em>aplicações com propósito</em>.<br><br>
+        <img src="https://img.shields.io/badge/-Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
       </p>
     </td>
     <td align="right">
-      <img src="bunner.gif" alt="code GIF" width="250"/>
+      <img src="bunner.gif" alt="Code GIF" width="300"/>
     </td>
   </tr>
 </table>
-
 
 ---
 
@@ -26,12 +27,12 @@ Sou um desenvolvedor backend com foco em **Python** e no microframework **Flask*
 
 ## 🧠 Stack de Tecnologias
 
-| Categoria         | Tecnologias                                                                 |
-|------------------|------------------------------------------------------------------------------|
-| **Linguagens**    | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) |
-| **Frameworks**    | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
-| **Banco de Dados**| ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
-| **Frontend**      | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white) |
+| 💻 Categoria        | 🚀 Tecnologias                                                                 |
+|---------------------|--------------------------------------------------------------------------------|
+| **Linguagens**       | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white) |
+| **Frameworks**       | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) |
+| **Banco de Dados**   | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+| **Frontend**         | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563d7c?style=flat&logo=bootstrap&logoColor=white) |
 | **Controle de Versão** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white) |
 
 ---
