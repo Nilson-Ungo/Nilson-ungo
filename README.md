@@ -29,7 +29,7 @@ Sou um desenvolvedor backend com foco em **Python** e no microframework **Flask*
 
 ---
 
-## 📌 Outros links úteis
+## 🧭 Como me encontrar
 
 - 📬 **Email**: [nilson.ungo.dev@gmail.com](mailto:nilson.ungo.dev@gmail.com)  
 - 🌐 **Portfólio**: [nilson-ungo.onrender.com](https://nilson-ungo.onrender.com/)  
