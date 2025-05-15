@@ -8,7 +8,7 @@
       </p>
     </td>
     <td align="right">
-      <img src="code%20GIF.gif" alt="code GIF" width="250"/>
+      <img src="bunner.gif" alt="code GIF" width="250"/>
     </td>
   </tr>
 </table>
