@@ -1,4 +1,4 @@
-![bunner](bunner.gif)
+![code GIF](code%20GIF.gif)
 
 <h1 align="center">👋 Olá, sou o Nilson Ungó</h1>
 
