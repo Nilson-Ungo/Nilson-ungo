@@ -29,13 +29,6 @@ Sou um desenvolvedor backend com foco em **Python** e no microframework **Flask*
 
 ---
 
-## 📌 Projeto em Destaque
-
-🔗 [GuardiaoAntecipa](https://guardiao-antecipa.onrender.com/)  
-Ferramenta web criada com Python e Flask para registrar produtos e alertar antes da validade. Envia notificações por e-mail e SMS para ajudar na redução do desperdício de alimentos e no controle de estoque.
-
----
-
 ## 🧭 Como me encontrar
 
 - 📬 **Email**: [nilson.ungo.dev@gmail.com](mailto:nilson.ungo.dev@gmail.com)  
