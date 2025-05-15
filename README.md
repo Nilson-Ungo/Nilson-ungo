@@ -1,11 +1,18 @@
-![code GIF](code%20GIF.gif)
+<table>
+  <tr>
+    <td>
+      <h1 align="left">👋 Olá, sou o Nilson Ungó</h1>
+      <p align="left">
+        Desenvolvedor Backend apaixonado por Python e pela criação de soluções web funcionais.<br>
+        Transformo ideias em aplicações com propósito.
+      </p>
+    </td>
+    <td align="right">
+      <img src="code%20GIF.gif" alt="code GIF" width="250"/>
+    </td>
+  </tr>
+</table>
 
-<h1 align="center">👋 Olá, sou o Nilson Ungó</h1>
-
-<p align="center">
-Desenvolvedor Backend apaixonado por Python e pela criação de soluções web funcionais.<br>
-Transformo ideias em aplicações com propósito.
-</p>
 
 ---
 
