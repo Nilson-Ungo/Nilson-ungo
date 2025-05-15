@@ -7,13 +7,6 @@ Desenvolvedor Backend apaixonado por Python e pela criação de soluções web f
 Transformo ideias em aplicações com propósito.
 </p>
 
-<p align="center">
-  <a href="mailto:nilson.ungo.dev@gmail.com"><img src="https://img.shields.io/badge/Email-nilson.ungo.dev@gmail.com-blue?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/nilson-ung%C3%B3-276a66179/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-NilsonUngó-blue?style=flat&logo=linkedin"/></a>
-  <a href="https://github.com/Nilson-Ungo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Nilson--Ungo-black?style=flat&logo=github"/></a>
-  <a href="https://nilson-ungo.onrender.com/" target="_blank"><img src="https://img.shields.io/badge/Portfólio-Online-0d1117?style=flat&logo=firefox-browser&logoColor=white"/></a>
-</p>
-
 ---
 
 ## 🚀 Sobre
