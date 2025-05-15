@@ -1,48 +1,39 @@
 <p align="center">
-  <img src="banner.gif" alt="Banner animado" />
+  <img src="bunner.gif" alt="Banner animado" />
 </p>
 
-<h1 align="center">Olá, eu sou o Nilson Ungó 👋</h1>
-<h3 align="center">Desenvolvedor Backend focado em Python, Flask e soluções web com propósito</h3>
+<h1 align="center">Olá! Eu sou o Nilson Ungó 👋</h1>
+<h3 align="center">Desenvolvedor Backend com foco em Python & Flask</h3>
 
 ---
 
-🎯 Desenvolvo soluções que resolvem problemas reais, com atenção ao funcionamento interno das aplicações e à estrutura dos dados.  
-🚧 Atualmente estou focado no desenvolvimento de aplicações web usando **Python**, **Flask**, **PostgreSQL**, **SQLite**, **HTML**, **CSS** e **Bootstrap**.  
-📚 Aprendo constantemente construindo — sempre buscando melhorar minhas habilidades como desenvolvedor backend.  
-🌐 Portfólio online: [nilson-ungo.onrender.com](https://nilson-ungo.onrender.com)
+🎯 Transformo ideias em aplicações web funcionais, com atenção à clareza, simplicidade e propósito.  
+🛠️ Trabalho com **Python**, **Flask**, **PostgreSQL**, **SQLite**, **HTML**, **CSS**, **Bootstrap** e **Git**.  
+📍 Tenho paixão por aprender, evoluir e compartilhar conhecimento.
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
+### 🌐 Portfólio
 
-| Linguagens | Frameworks | Banco de Dados | Outras Ferramentas |
-|------------|------------|----------------|---------------------|
-| Python     | Flask      | PostgreSQL     | Git & GitHub        |
-| HTML       |            | SQLite         | Bootstrap           |
-| CSS        |            |                |                     |
+Acesse meus projetos e saiba mais sobre mim:  
+🔗 **[nilson-ungo.onrender.com](https://nilson-ungo.onrender.com)**
 
 ---
 
-### 💼 Projeto em andamento
+### 🧰 Stack e Ferramentas
 
-#### 🛡️ [GuardiãoAntecipa](https://guardiao-antecipa.onrender.com/) `Em desenvolvimento`
-
-> Aplicação web desenvolvida com Python e Flask para cadastro de produtos com data de validade. Envia notificações por e-mail e SMS antes do vencimento.  
-> O foco é ajudar pequenos negócios na **redução do desperdício** e na **melhoria da gestão de estoque**.
+- **Linguagem:** Python  
+- **Framework:** Flask  
+- **Bancos de Dados:** PostgreSQL, SQLite  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Controle de Versão:** Git & GitHub
 
 ---
 
 ### 📫 Contato
 
-- 📧 E-mail: **nilson.a.ungo@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nilson-ung%C3%B3-276a66179/)  
-- 💻 [GitHub](https://github.com/Nilson-Ungo)
+- **E-mail:** nilson.ungo.dev@gmail.com  
+- **LinkedIn:** [linkedin.com/in/nilson-ungó-276a66179](https://www.linkedin.com/in/nilson-ung%C3%B3-276a66179/)  
+- **GitHub:** [github.com/Nilson-Ungo](https://github.com/Nilson-Ungo)
 
 ---
-
-### 📊 GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nilson-Ungo&show_icons=true&locale=pt-br&layout=compact" alt="Linguagens mais usadas por Nilson Ungó" />
-</p>
